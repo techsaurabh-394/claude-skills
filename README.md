@@ -1,5 +1,7 @@
 # claude-skills
 
+[![Stars](https://img.shields.io/github/stars/techsaurabh-394/claude-skills?style=flat&logo=github&color=6ea8fe)](https://github.com/techsaurabh-394/claude-skills/stargazers) [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat)](LICENSE) [![Last commit](https://img.shields.io/github/last-commit/techsaurabh-394/claude-skills?style=flat)](https://github.com/techsaurabh-394/claude-skills/commits/main) [![Issues](https://img.shields.io/github/issues/techsaurabh-394/claude-skills?style=flat)](https://github.com/techsaurabh-394/claude-skills/issues)
+
 Reusable [Claude Skills](https://docs.claude.com) I use for SEO, technical writing and AI-agent engineering. Each skill is a folder with a `SKILL.md` (YAML frontmatter + instructions). Drop a folder into your Claude skills directory, or zip it and upload it in Claude's skills settings.
 
 | Skill | Use it to |
@@ -18,3 +20,11 @@ Issues and PRs welcome. Keep each skill focused on one job, with a clear trigger
 
 ## License
 MIT
+
+## Roadmap (contributions welcome)
+- [ ] `resume-bullet-optimizer` skill
+- [ ] `api-docs-writer` skill
+- [ ] `code-review-checklist` skill
+- [ ] Example inputs/outputs for each skill in `examples/`
+
+If these save you time, a star helps others find them.
